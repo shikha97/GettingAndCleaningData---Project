@@ -56,3 +56,5 @@ This has been taken care of while reading the data set, by renaming the variable
 ## Creating a tidy data set
 
 Created by subsetting the data set as per requirements and writing it out to a .txt file.
+### To read this file please use - 
+read.table("File Name",header = TRUE)
