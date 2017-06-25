@@ -14,8 +14,10 @@ Creating one R script called run_analysis.R that does the following :-
 
 ## Packages used
 Primarily the used packages were - 
-	reshape2
-	data.table
+
+	1.reshape2
+	
+	2.data.table
 
 These were loaded into the environment by using an appropriate code.
 
